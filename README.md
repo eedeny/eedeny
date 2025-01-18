@@ -1,4 +1,23 @@
 
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+    <p>✨ Platforms & Languages ✨</p>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=TensorFlow&logoColor=white"/>
+</div>
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+
 
  
 #### 프로젝트 
