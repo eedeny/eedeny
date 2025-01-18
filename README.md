@@ -1,32 +1,13 @@
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC6kHTx_z0XmU9TFKqzvJ9TQ)](https://www.youtube.com/c/todaycode)   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/todaycode)](https://www.facebook.com/todaycode)
 
-#### 🌱 인프런 
 
-* [📚 모두의 한국어 텍스트 분석과 자연어처리 with 파이썬](https://github.com/corazzon/python-text-analysis)
-* [📈 증권 데이터 수집과 분석으로 신호와 소음 찾기](https://github.com/corazzon/finance-data-analysis)
-* [📋 공공데이터로 파이썬 데이터 분석 시작하기](https://github.com/corazzon/open-data-analysis-basic)
-* [📊 단 두 장의 문서로 데이터 분석과 시각화 뽀개기](https://github.com/corazzon/cracking-the-pandas-cheat-sheet)
-* [📚 영화리뷰 감정 분석을 통한 파이썬 텍스트 분석과 자연어 처리](https://bit.ly/inflearn-nlp-tutorial)
-* [📑 캐글 설문조사로 데이터 분석 입문하기](http://bit.ly/inflearn-kaggle-survey-2020)
  
 #### 네이버 커넥트 부스트코스
 * [🐍 모두를 위한 데이터 사이언스(파이썬 기초, EDA)](https://github.com/corazzon/boostcourse-ds-basic)
 * [⚡️ 파이썬으로 시작하는 데이터 사이언스(분석, 시각화)](https://github.com/corazzon/boostcourse-ds-510)
 * [💻 프로젝트로 배우는 데이터사이언스(분류, 회귀)](https://github.com/corazzon/boostcourse-ds-511)
- 
-#### 기상청 날씨마루
-* 🌦 [Python 교육 동영상](https://github.com/corazzon/kma-weather-python)
-* 🌤 [합성곱 신경망 날씨 이미지 분류](https://github.com/corazzon/kma-weather-image)
 
-#### 에듀캐스트
-* [(종료)텍스트 분석과 자연어 처리를 활용하여 IMDB 영화리뷰를 파이썬으로 분석하기](https://educast.com/course/data-science/LT91)
 
-#### 프로그래머스
-* [(종료)실습으로 배우는 데이터 사이언스](https://programmers.co.kr/learn/courses/21)
-
-#### 온오프라인 실시간 강의
-* [서울대학교 평생교육원 실전과정 예제로 풀어보는 데이터 분석](https://snui.snu.ac.kr/el/course/course_info_form.acl?COURSE_SEQ=269&LECTURE_SEQ=427)
-* [DT분야_파이썬을 활용한 데이터 분석 - 한국능률협회](http://www.kma.or.kr/usrs/eduRegMgnt/eduRegInfoDetailForm.do?p_usrid=&p_bbs_id=&p_pst_id=&p_edutype_cd=001&p_crscd=&p_crsseq_id=112879&p_month=&p_return=MENU&CRSCD=&CRSSEQ_ID=112879&p_hmpgcd=30&p_device=P&mkey=35497)
 
 
 <a href="https://github.com/corazzon/python-text-analysis"><img src="https://cdn.inflearn.com/public/courses/332610/cover/dd60db93-9c2c-4e6c-b135-86bc77a98b91/332610-eng.png" width=242></a>
@@ -40,19 +21,3 @@
 <a href="https://github.com/corazzon/boostcourse-ds-511"><img src="https://i.imgur.com/viyRb9a.png" width=242></a>
 <a href="https://programmers.co.kr/learn/courses/21"><img src="https://s3.ap-northeast-2.amazonaws.com/grepp-cloudfront/programmers_imgs/learn/thumb-course-datascience.jpg" width=242></a>
 
-
-
-<!--
-**corazzon/corazzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
