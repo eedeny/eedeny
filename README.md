@@ -11,5 +11,7 @@
 
 
 <a href="https://github.com/corazzon/python-text-analysis"><img src="project1" width=242></a>
+
 <a href="https://github.com/corazzon/finance-data-analysis"><img src="project2" width=242></a>
-<a href="https://github.com/corazzon/open-data-analysis-basic"><img src="project3" width=242></a>
+
+<a href="https://github.com/corazzon/open-data-analysis-basic"><img src="project3-1" width=242></a>
