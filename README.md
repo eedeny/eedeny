@@ -10,6 +10,6 @@
 
 
 
-<a href="https://github.com/corazzon/python-text-analysis"><img src="https://cdn.inflearn.com/public/courses/332610/cover/dd60db93-9c2c-4e6c-b135-86bc77a98b91/332610-eng.png" width=242></a>
-<a href="https://github.com/corazzon/finance-data-analysis"><img src="https://cdn.inflearn.com/public/courses/326383/cover/4c038b06-8afa-4ae8-b14a-5ed22cfabce0/326383-eng.png" width=242></a>
-<a href="https://github.com/corazzon/open-data-analysis-basic"><img src="https://cdn.inflearn.com/public/courses/286688/course_cover/b08e32cb-597e-4af8-9f13-fd4b0562e4fb/pje-public-data-analysis-eng-2.png" width=242></a>
+<a href="https://github.com/corazzon/python-text-analysis"><img src="project1" width=242></a>
+<a href="https://github.com/corazzon/finance-data-analysis"><img src="project2" width=242></a>
+<a href="https://github.com/corazzon/open-data-analysis-basic"><img src="project3" width=242></a>
