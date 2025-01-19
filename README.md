@@ -1,4 +1,5 @@
 <div align="center">
+	
 ### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -48,7 +49,8 @@
 
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+ 🛠### Tools 🛠
+
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 
