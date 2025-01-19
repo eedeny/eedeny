@@ -49,7 +49,7 @@
 
 <br>
 <div align=center>
- 🛠### Tools 🛠
+ <p>🛠### Tools 🛠 </p>
 
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
