@@ -57,11 +57,16 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 
 </div>
+
+<br>
 <div align=center>
  <p><strong>🏅 Certifications 🏅</strong> </p>
 	- 빅데이터분석기사
+	<br>
  	- 데이터분석 준전문가(ADsP)
+	<br>
   	- SQLD
+   
 	
 
 <br>
