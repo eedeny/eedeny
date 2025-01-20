@@ -1,6 +1,6 @@
 <div align="center">
 	
-### My Skill Set  
+### 👩🏻‍💻 My Skill Set 👩🏻‍💻
 <table><tr><td valign="top" width="33%">
 
 ### Data Analysis  
@@ -49,7 +49,7 @@
 
 <br>
 <div align=center>
- <p>🛠### Tools 🛠 </p>
+ <p><strong>🛠 Tools 🛠</strong> </p>
 
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
@@ -72,7 +72,7 @@
 <div align = left>
 
 
-## Projects
+## ⭐️ Projects ⭐️
 - [ 👩🏻‍⚕️ 데이터 과학을 활용한 건강전략]- [GitHub](https://github.com/2024-AWS-GenAI-Hackathon)
 - [💸 이커머스 고객 세분화] - [Google Play](https://play.google.com/store/apps/details?id=com.codeinsongdo.wewish)
 - [ 📈 유통업체 판매 수요 예측] - [GitHub](https://github.com/Jinyshin/DONT-BE-LATE)
