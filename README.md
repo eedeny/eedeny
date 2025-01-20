@@ -58,15 +58,15 @@
 
 </div>
 <div align=center>
+ <p><strong>🏅 Certifications 🏅</strong> </p>
+	- 빅데이터분석기사
+ 	- 데이터분석 준전문가(ADsP)
+  	- SQLD
+	
+
 <br>
 
 
-
-
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eedeny&layout=compact&langs_count=2">
-</div>
 
 
 <div align = left>
