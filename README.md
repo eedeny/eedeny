@@ -57,7 +57,7 @@
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Jupyter-181717?style=flat-square&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-FFA500?style=flat&logo=Jupyter&logoColor=white" />
 
 </div>
 
