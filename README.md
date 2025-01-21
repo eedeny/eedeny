@@ -78,10 +78,10 @@
 
 
 ## ⭐️ Projects ⭐️
-- [ 👩🏻‍⚕️ 데이터 과학을 활용한 건강전략]- [GitHub](https://github.com/2024-AWS-GenAI-Hackathon)
 - [💸 이커머스 고객 세분화] - [Google Play](https://play.google.com/store/apps/details?id=com.codeinsongdo.wewish)
 - [ 📈 유통업체 판매 수요 예측] - [GitHub](https://github.com/Jinyshin/DONT-BE-LATE)
 - [🚶🏻‍♀️‍➡️ 동행 : 보행약자 통행 보조] - [GitHub](https://github.com/Jinyshin/Carea)
+- [ 🎅 선물 배송 경로 최적화 경진대회: 산타와 루돌프의 워라벨 사수작전 ] - [GitHub](https://github.com/Jinyshin/Carea)
 
 
 </div>
