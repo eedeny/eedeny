@@ -81,9 +81,9 @@
 
 
 ## ⭐️ Projects ⭐️
-- [💸 이커머스 고객 세분화] - 
-- [ 📈 유통업체 판매 수요 예측] - 
-- [🚶🏻‍♀️‍➡️ 동행 : 보행약자 통행 보조] - 
+- [💸 이커머스 고객 세분화] - [Notion](https://third-zydeco-9b0.notion.site/1838aed6b95e8094bafaf5bb33bfe4fe)
+- [ 📈 유통업체 판매 수요 예측] - [Notion](https://third-zydeco-9b0.notion.site/13d8aed6b95e8051b9d8ebe12d5a0b97)
+- [🚶🏻‍♀️‍➡️ 동행 : 보행약자 통행 보조] - [Notion](https://third-zydeco-9b0.notion.site/1838aed6b95e804daf81f68d71764d38)
 - [ 🎅 선물 배송 경로 최적화 경진대회: 산타와 루돌프의 워라벨 사수작전 ] - 진행 중 
 
 
